@@ -1,12 +1,3 @@
----
-title: '跟着官方Guide学习Spring Boot(一):Accessing-data-mysql'
-date: 2019-10-20 20:18:22
-tags: 
-- web
-categories : 
-- spring
----
-
 官网地址：[Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 
 本期Guide需要：
